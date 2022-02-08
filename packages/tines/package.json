@@ -1,6 +1,6 @@
 {
   "name": "@123swap/tines-v2",
-  "version": "1.0.0-canary.48",
+  "version": "1.0.0-canary.49",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
