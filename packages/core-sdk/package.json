@@ -38,5 +38,6 @@
   "devDependencies": {
     "@types/big.js": "^6.1.0",
     "tsdx": "^0.14.1"
-  }
+  },
+  "gitHead": "c7ea2b3cc0f08e0ef054e32710b166d54154a899"
 }
